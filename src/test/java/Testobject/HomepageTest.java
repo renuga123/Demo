@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import pageobject.basepage;
 import pageobject.homepageobject;
 
-public class HomepageTest {
+public class HomepageTest 1{
 
 
 homepageobject homepage;
