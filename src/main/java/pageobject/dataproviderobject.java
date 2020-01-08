@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class dataproviderobject {
+public class dataproviderobject 1{
 	
 		public WebDriver driver;
 		@BeforeMethod
